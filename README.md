@@ -9,10 +9,10 @@ This website Psychologist website with health takes to live healthy life.
 * CSS
 
 Below are screenshots.
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy1.png" height="300" width="500" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy2.png" height="300" width="500" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy3.png" height="300" width="500" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy4.png" height="300" width="500" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy1.png" height="200" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy2.png" height="200" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy3.png" height="200" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/psy4.png" height="200" width="300" ></a>
 
 ## 2. Gym Club Website. 
 Below are screenshots following sequence: homepage, registration, login, landing page, events, profile, and logout.
