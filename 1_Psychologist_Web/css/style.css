@@ -1,0 +1,90 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 130px;
+}
+.flex-around{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    width: 80%;
+    flex-wrap: wrap;
+    margin: 40px auto;
+}
+table{
+    border-collapse: collapse;
+    margin: 10px auto;
+}
+table td{
+  border:1px solid #ccc;
+}
+table thead td{
+  font-size:1em;
+  font-weight: bold;
+  padding:3px 7px 2px 7px;
+}
+table tbody td {
+  font-size:1em;
+  padding:3px 7px 2px 7px;
+}
+
+p{
+    line-height: 25px;
+}
+caption
+{
+caption-side:top
+}
+article{
+    margin: 50px;
+}
+.m-b-m{
+    margin-bottom: 150px;
+}
+.m-lr-m{
+    margin: 0 20%;
+}
+.m-tb-m{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.m-r-s{
+    margin-right: 10px;
+}
+.m-l-s{
+    margin-left: 10px;
+}
+.m-t-m{
+    margin-top: 50px;
+}
+.floatR{
+    float: right;
+}
+.floatL{
+    float: left;
+}
+.red{
+  color: #dd563c;  
+}
+.blue{
+    color: blue;
+}
+a:hover{
+    color: #dd563c;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+
+.font18{
+    font-size: 18px;
+}
+label{
+    width: 78px;
+}
