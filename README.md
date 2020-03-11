@@ -21,9 +21,9 @@ Below are screenshots following sequence: homepage, registration, login, landing
 * CSS
 * Bootstrap 4
 
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym1.png" height="250" width="450" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym2.png" height="250" width="450" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym3.png" height="250" width="450" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym4_afterlogin.png" height="250" width="450" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym5.png" height="250" width="450" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym6.png" height="250" width="450" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym1.png" height="250" width="430" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym2.png" height="250" width="430" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym3.png" height="250" width="430" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym4_afterlogin.png" height="250" width="430" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym5.png" height="250" width="430" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Freelance_web_projects/blob/master/imgs/gym6.png" height="250" width="430" ></a>
